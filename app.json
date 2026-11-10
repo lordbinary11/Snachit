@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "Snachit",
+    "slug": "snachit-mobile",
+    "scheme": "snachit",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "plugins": [
+      "expo-router",
+      "expo-splash-screen",
+      "expo-font"
+    ],
+    "experiments": {
+      "typedRoutes": true
+    }
+  }
+}

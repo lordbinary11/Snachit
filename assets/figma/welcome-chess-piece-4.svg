@@ -1,0 +1,12 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="21.175" height="21.175" viewBox="0 0 21.175 21.175" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="Chess piece">
+<use xlink:href="#stroke0_0_27" fill="white"/>
+<mask id="stroke1_0_27" fill="white">
+<use xlink:href="#stroke0_0_27"/>
+</mask>
+<path d="M11.9109 5.929H13.2344M1.32344 21.175H21.175L18.5281 16.94L19.8516 10.164C20.7339 5.64667 18.087 2.82333 11.9109 1.694L6.61719 0V4.235L0 11.011L3.97031 13.552L11.9109 10.164L9.26406 16.093L1.32344 21.175Z" stroke-width="2.5" stroke-linecap="round" stroke="#23262F" mask="url(#stroke1_0_27)"/>
+</g>
+<defs>
+<path id="stroke0_0_27" d="M1.32344 21.175H21.175L18.5281 16.94L19.8516 10.164C20.7339 5.64667 18.087 2.82333 11.9109 1.694L6.61719 0V4.235L0 11.011L3.97031 13.552L11.9109 10.164L9.26406 16.093L1.32344 21.175ZM11.9109 5.929H13.2344Z"/>
+</defs>
+</svg>

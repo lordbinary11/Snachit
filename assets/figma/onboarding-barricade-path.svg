@@ -1,0 +1,34 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="122" height="140" viewBox="0 0 122 140" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Barricade path">
+<rect width="122" height="140" rx="8" fill="#FFFEFA"/>
+<circle id="Player token" cx="106.5" cy="19.5" r="6.5" fill="#222D40"/>
+<circle id="Player token_2" cx="61.5" cy="108.5" r="6.5" fill="#FC3844"/>
+<rect id="Barricade" x="74" y="75" width="6" height="42" rx="2" fill="#222D40"/>
+<rect id="Barricade_2" x="28" y="52" width="43" height="6" rx="2" fill="#222D40"/>
+<circle id="Path space" cx="105" cy="109" r="4.5" stroke="#B6BFCF"/>
+<circle id="Path space_2" cx="83" cy="109" r="4.5" stroke="#B6BFCF"/>
+<circle id="Path space_3" cx="61" cy="109" r="4.5" stroke="#B6BFCF"/>
+<circle id="Path space_4" cx="39" cy="109" r="4.5" stroke="#B6BFCF"/>
+<circle id="Path space_5" cx="17" cy="109" r="4.5" stroke="#B6BFCF"/>
+<circle id="Path space_6" cx="105" cy="87" r="4.5" stroke="#B6BFCF"/>
+<circle id="Path space_7" cx="83" cy="87" r="4.5" stroke="#B6BFCF"/>
+<circle id="Path space_8" cx="61" cy="87" r="4.5" stroke="#B6BFCF"/>
+<circle id="Path space_9" cx="39" cy="87" r="4.5" stroke="#B6BFCF"/>
+<circle id="Path space_10" cx="17" cy="87" r="4.5" stroke="#B6BFCF"/>
+<circle id="Path space_11" cx="105" cy="65" r="4.5" stroke="#B6BFCF"/>
+<circle id="Path space_12" cx="83" cy="65" r="4.5" stroke="#B6BFCF"/>
+<circle id="Path space_13" cx="61" cy="65" r="4.5" stroke="#B6BFCF"/>
+<circle id="Path space_14" cx="39" cy="65" r="4.5" stroke="#B6BFCF"/>
+<circle id="Path space_15" cx="17" cy="65" r="4.5" stroke="#B6BFCF"/>
+<circle id="Path space_16" cx="105" cy="43" r="4.5" stroke="#B6BFCF"/>
+<circle id="Path space_17" cx="83" cy="43" r="4.5" stroke="#B6BFCF"/>
+<circle id="Path space_18" cx="61" cy="43" r="4.5" stroke="#B6BFCF"/>
+<circle id="Path space_19" cx="39" cy="43" r="4.5" stroke="#B6BFCF"/>
+<circle id="Path space_20" cx="17" cy="43" r="4.5" stroke="#B6BFCF"/>
+<circle id="Path space_21" cx="105" cy="21" r="4.5" stroke="#B6BFCF"/>
+<circle id="Path space_22" cx="83" cy="21" r="4.5" stroke="#B6BFCF"/>
+<circle id="Path space_23" cx="61" cy="21" r="4.5" stroke="#B6BFCF"/>
+<circle id="Path space_24" cx="39" cy="21" r="4.5" stroke="#B6BFCF"/>
+<circle id="Path space_25" cx="17" cy="21" r="4.5" stroke="#B6BFCF"/>
+</g>
+</svg>

@@ -1,0 +1,91 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="Chess keepsake">
+<g clip-path="url(#clip0_0_30)">
+<g id="Pawn">
+<use xlink:href="#stroke0_0_30" fill="white"/>
+<mask id="stroke1_0_30" fill="white">
+<use xlink:href="#stroke0_0_30"/>
+</mask>
+<path d="M92 34C84.6667 34 83.4444 40.7692 88.3333 42.4615L87.1111 49.2308L84.6667 52.6154L81 56H103L99.3333 52.6154L96.8889 49.2308L95.6667 42.4615C100.556 40.7692 99.3333 34 92 34Z" stroke-width="2.5" stroke="#222D40" mask="url(#stroke1_0_30)"/>
+</g>
+<g id="Knight">
+<use xlink:href="#stroke2_0_30" fill="#222D40"/>
+<mask id="stroke3_0_30" fill="white">
+<use xlink:href="#stroke2_0_30"/>
+</mask>
+<path d="M49.625 88.28H51.25M36.625 107H61L57.75 101.8L59.375 93.48C60.4583 87.9333 57.2083 84.4667 49.625 83.08L43.125 81V86.2L35 94.52L39.875 97.64L49.625 93.48L46.375 100.76L36.625 107Z" stroke-width="2.5" stroke="#222D40" mask="url(#stroke3_0_30)"/>
+</g>
+<rect id="Board square" x="112" y="112" width="16" height="16" fill="#F0F1F4"/>
+<rect id="Board square_2" x="96" y="112" width="16" height="16" fill="#AEBAD2"/>
+<rect id="Board square_3" x="80" y="112" width="16" height="16" fill="#F0F1F4"/>
+<rect id="Board square_4" x="64" y="112" width="16" height="16" fill="#AEBAD2"/>
+<rect id="Board square_5" x="48" y="112" width="16" height="16" fill="#F0F1F4"/>
+<rect id="Board square_6" x="32" y="112" width="16" height="16" fill="#AEBAD2"/>
+<rect id="Board square_7" x="16" y="112" width="16" height="16" fill="#F0F1F4"/>
+<rect id="Board square_8" y="112" width="16" height="16" fill="#AEBAD2"/>
+<rect id="Board square_9" x="112" y="96" width="16" height="16" fill="#AEBAD2"/>
+<rect id="Board square_10" x="96" y="96" width="16" height="16" fill="#F0F1F4"/>
+<rect id="Board square_11" x="80" y="96" width="16" height="16" fill="#AEBAD2"/>
+<rect id="Board square_12" x="64" y="96" width="16" height="16" fill="#F0F1F4"/>
+<rect id="Board square_13" x="48" y="96" width="16" height="16" fill="#AEBAD2"/>
+<rect id="Board square_14" x="32" y="96" width="16" height="16" fill="#F0F1F4"/>
+<rect id="Board square_15" x="16" y="96" width="16" height="16" fill="#AEBAD2"/>
+<rect id="Board square_16" y="96" width="16" height="16" fill="#F0F1F4"/>
+<rect id="Board square_17" x="112" y="80" width="16" height="16" fill="#F0F1F4"/>
+<rect id="Board square_18" x="96" y="80" width="16" height="16" fill="#AEBAD2"/>
+<rect id="Board square_19" x="80" y="80" width="16" height="16" fill="#F0F1F4"/>
+<rect id="Board square_20" x="64" y="80" width="16" height="16" fill="#AEBAD2"/>
+<rect id="Board square_21" x="48" y="80" width="16" height="16" fill="#F0F1F4"/>
+<rect id="Board square_22" x="32" y="80" width="16" height="16" fill="#AEBAD2"/>
+<rect id="Board square_23" x="16" y="80" width="16" height="16" fill="#F0F1F4"/>
+<rect id="Board square_24" y="80" width="16" height="16" fill="#AEBAD2"/>
+<rect id="Board square_25" x="112" y="64" width="16" height="16" fill="#AEBAD2"/>
+<rect id="Board square_26" x="96" y="64" width="16" height="16" fill="#F0F1F4"/>
+<rect id="Board square_27" x="80" y="64" width="16" height="16" fill="#AEBAD2"/>
+<rect id="Board square_28" x="64" y="64" width="16" height="16" fill="#F0F1F4"/>
+<rect id="Board square_29" x="48" y="64" width="16" height="16" fill="#AEBAD2"/>
+<rect id="Board square_30" x="32" y="64" width="16" height="16" fill="#F0F1F4"/>
+<rect id="Board square_31" x="16" y="64" width="16" height="16" fill="#AEBAD2"/>
+<rect id="Board square_32" y="64" width="16" height="16" fill="#F0F1F4"/>
+<rect id="Board square_33" x="112" y="48" width="16" height="16" fill="#F0F1F4"/>
+<rect id="Board square_34" x="96" y="48" width="16" height="16" fill="#AEBAD2"/>
+<rect id="Board square_35" x="80" y="48" width="16" height="16" fill="#F0F1F4"/>
+<rect id="Board square_36" x="64" y="48" width="16" height="16" fill="#AEBAD2"/>
+<rect id="Board square_37" x="48" y="48" width="16" height="16" fill="#F0F1F4"/>
+<rect id="Board square_38" x="32" y="48" width="16" height="16" fill="#AEBAD2"/>
+<rect id="Board square_39" x="16" y="48" width="16" height="16" fill="#F0F1F4"/>
+<rect id="Board square_40" y="48" width="16" height="16" fill="#AEBAD2"/>
+<rect id="Board square_41" x="112" y="32" width="16" height="16" fill="#AEBAD2"/>
+<rect id="Board square_42" x="96" y="32" width="16" height="16" fill="#F0F1F4"/>
+<rect id="Board square_43" x="80" y="32" width="16" height="16" fill="#AEBAD2"/>
+<rect id="Board square_44" x="64" y="32" width="16" height="16" fill="#F0F1F4"/>
+<rect id="Board square_45" x="48" y="32" width="16" height="16" fill="#AEBAD2"/>
+<rect id="Board square_46" x="32" y="32" width="16" height="16" fill="#F0F1F4"/>
+<rect id="Board square_47" x="16" y="32" width="16" height="16" fill="#AEBAD2"/>
+<rect id="Board square_48" y="32" width="16" height="16" fill="#F0F1F4"/>
+<rect id="Board square_49" x="112" y="16" width="16" height="16" fill="#F0F1F4"/>
+<rect id="Board square_50" x="96" y="16" width="16" height="16" fill="#AEBAD2"/>
+<rect id="Board square_51" x="80" y="16" width="16" height="16" fill="#F0F1F4"/>
+<rect id="Board square_52" x="64" y="16" width="16" height="16" fill="#AEBAD2"/>
+<rect id="Board square_53" x="48" y="16" width="16" height="16" fill="#F0F1F4"/>
+<rect id="Board square_54" x="32" y="16" width="16" height="16" fill="#AEBAD2"/>
+<rect id="Board square_55" x="16" y="16" width="16" height="16" fill="#F0F1F4"/>
+<rect id="Board square_56" y="16" width="16" height="16" fill="#AEBAD2"/>
+<rect id="Board square_57" x="112" width="16" height="16" fill="#AEBAD2"/>
+<rect id="Board square_58" x="96" width="16" height="16" fill="#F0F1F4"/>
+<rect id="Board square_59" x="80" width="16" height="16" fill="#AEBAD2"/>
+<rect id="Board square_60" x="64" width="16" height="16" fill="#F0F1F4"/>
+<rect id="Board square_61" x="48" width="16" height="16" fill="#AEBAD2"/>
+<rect id="Board square_62" x="32" width="16" height="16" fill="#F0F1F4"/>
+<rect id="Board square_63" x="16" width="16" height="16" fill="#AEBAD2"/>
+<rect id="Board square_64" width="16" height="16" fill="#F0F1F4"/>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_0_30">
+<rect width="128" height="128" rx="6" fill="white"/>
+</clipPath>
+<path id="stroke0_0_30" d="M92 34C84.6667 34 83.4444 40.7692 88.3333 42.4615L87.1111 49.2308L84.6667 52.6154L81 56H103L99.3333 52.6154L96.8889 49.2308L95.6667 42.4615C100.556 40.7692 99.3333 34 92 34Z"/>
+<path id="stroke2_0_30" d="M36.625 107H61L57.75 101.8L59.375 93.48C60.4583 87.9333 57.2083 84.4667 49.625 83.08L43.125 81V86.2L35 94.52L39.875 97.64L49.625 93.48L46.375 100.76L36.625 107ZM49.625 88.28H51.25Z"/>
+</defs>
+</svg>
